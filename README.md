@@ -290,6 +290,18 @@ Plant-Disease-Classification-CNN/
 ├── .gitignore
 ```
 
+<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/9ffd9554-1435-464e-a502-32a6cac65fac" />
+
+<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/49d69cac-c300-498e-9816-0b9fbbf79757" />
+
+<img width="1169" height="690" alt="image" src="https://github.com/user-attachments/assets/6861ac27-7cdf-4502-adf3-4e4a5898fb20" />
+
+
+<img width="916" height="590" alt="image" src="https://github.com/user-attachments/assets/012d3d98-e9e8-441c-8a03-a19c787a96f5" />
+
+
+
+
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
